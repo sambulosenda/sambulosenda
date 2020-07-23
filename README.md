@@ -1,22 +1,16 @@
-```
-                                                                           
-                                                                           
-HHHHHHHHH     HHHHHHHHH                   lllllll lllllll                  
-H:::::::H     H:::::::H                   l:::::l l:::::l                  
-H:::::::H     H:::::::H                   l:::::l l:::::l                  
-HH::::::H     H::::::HH                   l:::::l l:::::l                  
-  H:::::H     H:::::H      eeeeeeeeeeee    l::::l  l::::l    ooooooooooo   
-  H:::::H     H:::::H    ee::::::::::::ee  l::::l  l::::l  oo:::::::::::oo 
-  H::::::HHHHH::::::H   e::::::eeeee:::::eel::::l  l::::l o:::::::::::::::o
-  H:::::::::::::::::H  e::::::e     e:::::el::::l  l::::l o:::::ooooo:::::o
-  H:::::::::::::::::H  e:::::::eeeee::::::el::::l  l::::l o::::o     o::::o
-  H::::::HHHHH::::::H  e:::::::::::::::::e l::::l  l::::l o::::o     o::::o
-  H:::::H     H:::::H  e::::::eeeeeeeeeee  l::::l  l::::l o::::o     o::::o
-  H:::::H     H:::::H  e:::::::e           l::::l  l::::l o::::o     o::::o
-HH::::::H     H::::::HHe::::::::e         l::::::ll::::::lo:::::ooooo:::::o
-H:::::::H     H:::::::H e::::::::eeeeeeee l::::::ll::::::lo:::::::::::::::o
-H:::::::H     H:::::::H  ee:::::::::::::e l::::::ll::::::l oo:::::::::::oo 
-HHHHHHHHH     HHHHHHHHH    eeeeeeeeeeeeee llllllllllllllll   ooooooooooo   
-                                                                           
-```
+### Hi there 👋, I am Catalin Pit!
+###### *Software Engineer*
+
+I am a Web Developer working on web applications used by millions of people daily. I specialise in frontend JavaScript technologies such as React js Besides that, I am an enthusiast of AWS and I look to become an AWS expert.
+
+* Frontend: HTML, CSS, SASS, Vanilla JavaScript, React JS
+* Backend: NodeJS
+* Cloud Computing: AWS
+
+
+### You can also find me on
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sambulosenda/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sambulo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@sambulosenda)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sambulosenda.com)  
+
+### My GitHub stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=sambulosenda&show_icons=true)
 
