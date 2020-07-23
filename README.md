@@ -1,4 +1,4 @@
-### Hi there 👋, I am Catalin Pit!
+### Hi there 👋, I am Sambulo Senda!
 ###### *Software Engineer*
 
 I am a Web Developer working on web applications used by millions of people daily. I specialise in frontend JavaScript technologies such as React js Besides that, I am an enthusiast of AWS and I look to become an AWS expert.
