@@ -11,19 +11,5 @@
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: 📲 text me if you wanna know!
 
-### Tools and other stuff
-
-<img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
-<img align="left" alt="npm" width="40px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
-<img align="left" alt="mongodb" width="40px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
-<img align="left" alt="firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt="heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
-<img align="left" alt="netlify" width="40px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
-<img align="left" alt="figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-<br />
-<br />
-<hr />
-
 
 
